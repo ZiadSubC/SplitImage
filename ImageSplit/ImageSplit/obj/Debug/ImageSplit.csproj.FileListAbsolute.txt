@@ -1,0 +1,8 @@
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\ImageSplit\bin\Debug\ImageSplit.exe.config
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\ImageSplit\bin\Debug\ImageSplit.exe
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\ImageSplit\bin\Debug\ImageSplit.pdb
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\ImageSplit\obj\Debug\ImageSplit.csproj.AssemblyReference.cache
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\ImageSplit\obj\Debug\ImageSplit.csproj.SuggestedBindingRedirects.cache
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\ImageSplit\obj\Debug\ImageSplit.csproj.CoreCompileInputs.cache
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\ImageSplit\obj\Debug\ImageSplit.exe
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\ImageSplit\obj\Debug\ImageSplit.pdb
