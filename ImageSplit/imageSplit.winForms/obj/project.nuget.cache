@@ -1,8 +1,32 @@
 {
   "version": 2,
-  "dgSpecHash": "j6cpn16tPsbTIKgmE8z8FzmLvZ3vn6FNf1oCZnFUyOfxijXe3VKvFYJhpBFOvqYCGSgh1BaibTnAJzKz1MQKPA==",
+  "dgSpecHash": "vD/2D7phmzICReJhhB5obVZitiYyaFUX8EvP0JO6HLBpcIo3TM6T/t7imBkVuvv7HpTVsQJ7gOFZ/0NGeolidg==",
   "success": true,
   "projectFilePath": "C:\\Users\\SubC\\source\\repos\\SplitImage\\ImageSplit\\imageSplit.winForms\\imageSplit.winForms.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\SubC\\.nuget\\packages\\messagingtoolkit\\1.8.3\\messagingtoolkit.1.8.3.nupkg.sha512",
+    "C:\\Users\\SubC\\.nuget\\packages\\messagingtoolkit.qrcode\\1.3.0\\messagingtoolkit.qrcode.1.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MessagingToolkit 1.8.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MessagingToolkit",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MessagingToolkit.QRCode 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MessagingToolkit.QRCode",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }

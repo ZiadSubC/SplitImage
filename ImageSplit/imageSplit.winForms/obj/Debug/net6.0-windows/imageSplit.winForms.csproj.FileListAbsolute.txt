@@ -16,3 +16,12 @@ C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\obj\Debug\n
 C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\obj\Debug\net6.0-windows\imageSplit.winForms.genruntimeconfig.cache
 C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\obj\Debug\net6.0-windows\ref\imageSplit.winForms.dll
 C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\bin\Debug\net6.0-windows\kitten.jpg
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\bin\Debug\net6.0-windows\MessagingToolkit.Barcode.dll
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\bin\Debug\net6.0-windows\MessagingToolkit.Core.dll
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\bin\Debug\net6.0-windows\MessagingToolkit.MMS.dll
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\bin\Debug\net6.0-windows\MessagingToolkit.Pdu.dll
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\bin\Debug\net6.0-windows\MessagingToolkit.UI.dll
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\bin\Debug\net6.0-windows\MessagingToolkit.Wap.dll
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\bin\Debug\net6.0-windows\MessagingToolkit.QRCode.dll
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\obj\Debug\net6.0-windows\imageSplit.winForms.csproj.CopyComplete
+C:\Users\SubC\source\repos\SplitImage\ImageSplit\imageSplit.winForms\obj\Debug\net6.0-windows\imageSplit.winForms.Properties.Resources.resources

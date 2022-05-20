@@ -1,11 +1,121 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "MessagingToolkit/1.8.3": {
+        "type": "package",
+        "compile": {
+          "lib/net46/MessagingToolkit.Barcode.dll": {},
+          "lib/net46/MessagingToolkit.Core.dll": {},
+          "lib/net46/MessagingToolkit.MMS.dll": {},
+          "lib/net46/MessagingToolkit.Pdu.dll": {},
+          "lib/net46/MessagingToolkit.UI.dll": {},
+          "lib/net46/MessagingToolkit.Wap.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MessagingToolkit.Barcode.dll": {},
+          "lib/net46/MessagingToolkit.Core.dll": {},
+          "lib/net46/MessagingToolkit.MMS.dll": {},
+          "lib/net46/MessagingToolkit.Pdu.dll": {},
+          "lib/net46/MessagingToolkit.UI.dll": {},
+          "lib/net46/MessagingToolkit.Wap.dll": {}
+        }
+      },
+      "MessagingToolkit.QRCode/1.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/MessagingToolkit.QRCode.dll": {}
+        },
+        "runtime": {
+          "lib/MessagingToolkit.QRCode.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MessagingToolkit/1.8.3": {
+      "sha512": "kI3N/g4E7pzIMDs0Sk5rHNLdADZTx3Bi0hHwLUAHyVIP7W2aqKWPZVfFrz1My2VC20mTOBYNkfrR1eGGeW1Bqw==",
+      "type": "package",
+      "path": "messagingtoolkit/1.8.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MessagingToolkit.chm",
+        "lib/net40/MessagingToolkit.Barcode.dll",
+        "lib/net40/MessagingToolkit.Core.XML",
+        "lib/net40/MessagingToolkit.Core.dll",
+        "lib/net40/MessagingToolkit.MMS.dll",
+        "lib/net40/MessagingToolkit.Pdu.dll",
+        "lib/net40/MessagingToolkit.UI.dll",
+        "lib/net40/MessagingToolkit.Wap.dll",
+        "lib/net40/x64/MessagingToolkit.Barcode.dll",
+        "lib/net40/x64/MessagingToolkit.Core.dll",
+        "lib/net40/x64/MessagingToolkit.MMS.dll",
+        "lib/net40/x64/MessagingToolkit.Pdu.dll",
+        "lib/net40/x64/MessagingToolkit.UI.dll",
+        "lib/net40/x64/MessagingToolkit.Wap.dll",
+        "lib/net45/MessagingToolkit.Barcode.dll",
+        "lib/net45/MessagingToolkit.Core.XML",
+        "lib/net45/MessagingToolkit.Core.dll",
+        "lib/net45/MessagingToolkit.MMS.dll",
+        "lib/net45/MessagingToolkit.Pdu.dll",
+        "lib/net45/MessagingToolkit.UI.dll",
+        "lib/net45/MessagingToolkit.Wap.dll",
+        "lib/net45/x64/MessagingToolkit.Barcode.dll",
+        "lib/net45/x64/MessagingToolkit.Core.dll",
+        "lib/net45/x64/MessagingToolkit.MMS.dll",
+        "lib/net45/x64/MessagingToolkit.Pdu.dll",
+        "lib/net45/x64/MessagingToolkit.UI.dll",
+        "lib/net45/x64/MessagingToolkit.Wap.dll",
+        "lib/net46/MessagingToolkit.Barcode.dll",
+        "lib/net46/MessagingToolkit.Core.XML",
+        "lib/net46/MessagingToolkit.Core.dll",
+        "lib/net46/MessagingToolkit.MMS.dll",
+        "lib/net46/MessagingToolkit.Pdu.dll",
+        "lib/net46/MessagingToolkit.UI.dll",
+        "lib/net46/MessagingToolkit.Wap.dll",
+        "lib/net46/x64/MessagingToolkit.Barcode.dll",
+        "lib/net46/x64/MessagingToolkit.Core.dll",
+        "lib/net46/x64/MessagingToolkit.MMS.dll",
+        "lib/net46/x64/MessagingToolkit.Pdu.dll",
+        "lib/net46/x64/MessagingToolkit.UI.dll",
+        "lib/net46/x64/MessagingToolkit.Wap.dll",
+        "lib/net462/MessagingToolkit.Barcode.dll",
+        "lib/net462/MessagingToolkit.Core.XML",
+        "lib/net462/MessagingToolkit.Core.dll",
+        "lib/net462/MessagingToolkit.MMS.dll",
+        "lib/net462/MessagingToolkit.Pdu.dll",
+        "lib/net462/MessagingToolkit.UI.dll",
+        "lib/net462/MessagingToolkit.Wap.dll",
+        "lib/net462/x64/MessagingToolkit.Barcode.dll",
+        "lib/net462/x64/MessagingToolkit.Core.dll",
+        "lib/net462/x64/MessagingToolkit.MMS.dll",
+        "lib/net462/x64/MessagingToolkit.Pdu.dll",
+        "lib/net462/x64/MessagingToolkit.UI.dll",
+        "lib/net462/x64/MessagingToolkit.Wap.dll",
+        "messagingtoolkit.1.8.3.nupkg.sha512",
+        "messagingtoolkit.nuspec",
+        "readme.txt"
+      ]
+    },
+    "MessagingToolkit.QRCode/1.3.0": {
+      "sha512": "zgZUG9b99kyYvplxVbtN+wNkwB+7RoJJFImDZ/InT6tEKKKkMa3k1NOSKMbWlbWgwti20qCK/UxMcTV1svQ5wQ==",
+      "type": "package",
+      "path": "messagingtoolkit.qrcode/1.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MessagingToolkit.QRCode.dll",
+        "messagingtoolkit.qrcode.1.3.0.nupkg.sha512",
+        "messagingtoolkit.qrcode.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "MessagingToolkit >= 1.8.3",
+      "MessagingToolkit.QRCode >= 1.3.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\SubC\\.nuget\\packages\\": {},
@@ -52,6 +162,16 @@
     "frameworks": {
       "net6.0-windows7.0": {
         "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "MessagingToolkit": {
+            "target": "Package",
+            "version": "[1.8.3, )"
+          },
+          "MessagingToolkit.QRCode": {
+            "target": "Package",
+            "version": "[1.3.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -73,5 +193,27 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MessagingToolkit 1.8.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MessagingToolkit",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MessagingToolkit.QRCode 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MessagingToolkit.QRCode",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }
